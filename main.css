@@ -1,0 +1,60 @@
+html *
+{
+   font-family: Verdana !important;
+}
+
+input[type=text]
+{
+    height : 30px;
+    width : 150px;
+    border-radius: 5px;
+    
+}
+textarea
+{
+    border-radius: 5px;
+    
+}
+
+select{
+    height : 30px;
+    width : 150px;
+    font-size:x-small;
+    border-radius: 5px;
+}
+
+label{
+    font-size:small;
+}
+#btn-enviarmensaje{
+    height : 30px;
+    width : 60px;
+    background: #58B957;
+    color: white;
+    border-radius: 5px;
+
+}
+#btn-descargarxml{
+    height : 30px;
+    width : 120px;
+    background: #58B957;
+    color: white;
+}
+#tablapais{
+    width : 500px;
+}
+#tablaconversacion{
+    width : 900px;
+    border: 1px solid #000000;
+
+}
+/*#tablaconversacion{
+    border: 1px solid black;
+}*/
+.encerrar {
+    margin: auto;
+    border: 1px solid #000000;
+    padding: 10px;
+    border-collapse: collapse;
+}
+/*td.t1{    height: 30px;    -moz-border-radius: 8px;    -webkit-border-radius: 8px;    border-radius: 8px;    border: 2px solid black;    padding: 0 4px 0 4px;  }*/
